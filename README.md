@@ -1,123 +1,185 @@
-<!-- ========================= -->
-
-<!--        PROFILE HEADER      -->
-
-<!-- ========================= -->
-
 <div align="center">
 
-# 👋 Hi, I'm Sonar Shubham
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sonar%20Shubham&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-### 💻 Software Engineer | Java & Python Developer | AI/ML Enthusiast
+<h3>💻 Software Engineer • Java Developer • AI/ML Enthusiast</h3>
 
 <p>
-  <a href="https://github.com/75ShubhamSonar">
-    <img src="https://img.shields.io/github/followers/75ShubhamSonar?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/75ShubhamSonar">
-    <img src="https://komarev.com/ghpvc/?username=75ShubhamSonar&style=for-the-badge&color=blue" alt="Profile Views"/>
-  </a>
+Building applications, learning new technologies, and turning ideas into working software.
 </p>
 
 <p>
-  <a href="https://shubhamsonar7.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-blue?style=for-the-badge" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shubham-sonar-741011281/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:sonarshubham7522@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+<a href="https://github.com/75ShubhamSonar">
+<img src="https://img.shields.io/badge/GitHub-75ShubhamSonar-181717?style=flat-square&logo=github"/>
+</a>
+<a href="https://www.linkedin.com/in/shubham-sonar-741011281/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://shubhamsonar7.github.io/portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-4285F4?style=flat-square&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="mailto:sonarshubham7522@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=75ShubhamSonar&label=Profile%20Views&color=0e75b6&style=flat-square"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="55%">
+
+### Hi, I'm Shubham 👋
+
+I'm a **Software Engineer** interested in backend development, web technologies and Artificial Intelligence.
+
+* 🔭 Currently working on **SafarBook**
+* 🌱 Learning **Spring Boot, Spring AI & AWS**
+* ☕ Strong interest in **Java & backend development**
+* 🐍 Experienced with **Python & programming fundamentals**
+* 🤖 Exploring **AI / ML & Generative AI**
+* 🗄️ Working with **SQL & relational databases**
+* 🚀 Interested in building practical, real-world applications
+
+</td>
+
+<td width="45%">
 
 ```text
-💻 Software Engineer passionate about building practical applications
-☕ Working primarily with Java, Spring Boot, Python and SQL
-🤖 Interested in Artificial Intelligence, Machine Learning and Generative AI
-🌱 Currently learning Spring Boot, Spring AI and AWS
-🔨 Currently working on SafarBook
-🎯 Focused on writing clean, maintainable and scalable code
-📚 Always learning new technologies and improving my development skills
+┌─────────────────────────────┐
+│       CURRENT FOCUS         │
+├─────────────────────────────┤
+│ ☕ Java                     │
+│ 🌱 Spring Boot              │
+│ 🤖 Spring AI                │
+│ ☁️ AWS                      │
+│ 🧠 Generative AI            │
+│ 🗄️ SQL / Databases          │
+│ 🚀 Backend Development      │
+└─────────────────────────────┘
 ```
 
----
-
-## 🧑‍💻 What I'm Working On
-
-* 🔭 Building **SafarBook** — a travel / booking focused application
-* 🌱 Learning **Spring Boot, Spring AI & AWS**
-* 🤖 Exploring **AI/ML and Generative AI**
-* 🧩 Improving my **Java backend development** skills
-* ☁️ Learning how to build and deploy applications on **AWS**
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Languages & Technologies
+# 🧰 Tech Stack
 
-### 💻 Programming Languages
+### Languages
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript" />
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript"/>
 </p>
 
-### 🌐 Web Development
+### Frontend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,angular,vue" />
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,angular,vue"/>
 </p>
 
-### ⚙️ Backend & Frameworks
+### Backend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs" />
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs"/>
 </p>
 
-### 🗄️ Databases
+### Database
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,oracle" />
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,oracle"/>
 </p>
 
-### ☁️ Tools & DevOps
+### Cloud • DevOps • Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,aws" />
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,postman"/>
 </p>
 
-### 🤖 AI / ML
+### AI / Machine Learning
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,opencv,sklearn" />
+<p>
+<img src="https://skillicons.dev/icons?i=python,opencv,sklearn"/>
 </p>
 
 ---
 
-# ⭐ Featured Projects
+# 🚀 Featured Projects
 
 <div align="center">
 
+<table>
+<tr>
+
+<td width="50%">
+
+<h3>📚 RCP Library Management</h3>
+
+A library management application focused on managing books, users and library operations.
+
+<br>
+
 <a href="https://github.com/75ShubhamSonar/rcp-library">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=75ShubhamSonar&repo=rcp-library&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
 </a>
+
+</td>
+
+<td width="50%">
+
+<h3>💻 Coding Examination Platform</h3>
+
+A platform designed around online coding examinations and programming assessments.
+
+<br>
 
 <a href="https://github.com/75ShubhamSonar/Coding-Examination-Platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=75ShubhamSonar&repo=Coding-Examination-Platform&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
 </a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<h3>🛒 Amazon Project</h3>
+
+An e-commerce focused project built as part of web development practice.
+
+<br>
 
 <a href="https://github.com/75ShubhamSonar/Amazon">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=75ShubhamSonar&repo=Amazon&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
 </a>
 
+</td>
+
+<td width="50%">
+
+<h3>💍 Wedding Website</h3>
+
+A responsive website project created for a wedding-related use case.
+
+<br>
+
 <a href="https://github.com/75ShubhamSonar/wedding.github.io">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=75ShubhamSonar&repo=wedding.github.io&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
 </a>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -127,95 +189,114 @@
 
 <div align="center">
 
-<a href="https://github.com/75ShubhamSonar">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=75ShubhamSonar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-</a>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=75ShubhamSonar&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true"/>
 
-<a href="https://github.com/75ShubhamSonar">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=75ShubhamSonar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</a>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=75ShubhamSonar&layout=compact&hide_border=true&theme=github_dark&langs_count=8"/>
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+# 🔥 Contribution Streak
 
 <div align="center">
 
-<a href="https://github.com/75ShubhamSonar">
-  <img src="https://streak-stats.demolab.com/?user=75ShubhamSonar&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</a>
+<img src="https://streak-stats.demolab.com/?user=75ShubhamSonar&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
 ---
 
-## 📈 GitHub Activity & Commit Graph
+# 📈 Contribution Activity
 
 <div align="center">
 
-<a href="https://github.com/75ShubhamSonar">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=75ShubhamSonar\&theme=tokyo-night\&hide_border=true\&area=true)
-
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=75ShubhamSonar&theme=github-compact&hide_border=true&area=true" width="100%"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-<a href="https://github.com/75ShubhamSonar">
-
-<img src="https://github-profile-trophy.vercel.app/?username=75ShubhamSonar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies"/>
-
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=75ShubhamSonar&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6" width="90%"/>
 
 </div>
 
 ---
 
-# 📌 GitHub Highlights
+# 📌 GitHub Overview
 
 <div align="center">
 
-| 📦 Public Repositories |   ⭐ Stars   | 🔥 Contributions |     🛠️ Main Focus     |
-| :--------------------: | :---------: | :--------------: | :--------------------: |
-|         **5+**         | **Growing** |    **Active**    | **Java / Python / AI** |
+<table>
+<tr>
+
+<td align="center">
+<h3>📦</h3>
+<b>Repositories</b><br>
+Growing
+</td>
+
+<td align="center">
+<h3>⭐</h3>
+<b>Stars</b><br>
+Growing
+</td>
+
+<td align="center">
+<h3>🔥</h3>
+<b>Contributions</b><br>
+Active
+</td>
+
+<td align="center">
+<h3>💻</h3>
+<b>Focus</b><br>
+Java + AI
+</td>
+
+</tr>
+</table>
 
 </div>
-
-> GitHub statistics are dynamically generated and may change as my profile grows.
 
 ---
 
 # 🌱 Currently Learning
 
-<p align="center">
+<div align="center">
 
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 
-</p>
+</div>
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 2026 Roadmap
 
 ```text
-☑️ Strengthen Java & Spring Boot development
-☑️ Build production-ready backend applications
-☑️ Learn Spring AI and Generative AI
-☑️ Improve AWS & cloud deployment skills
-☑️ Contribute to open-source projects
-☑️ Build and publish more useful projects
-☑️ Maintain consistent GitHub activity
+Java & Spring Boot
+       │
+       ▼
+Backend Development
+       │
+       ▼
+Cloud & AWS
+       │
+       ▼
+Spring AI
+       │
+       ▼
+Generative AI
+       │
+       ▼
+Production-Ready Applications 🚀
 ```
 
 ---
@@ -224,25 +305,20 @@
 
 <div align="center">
 
-I'm always interested in connecting with developers, collaborating on projects,
-and discussing software development, AI and new technologies.
+### Interested in collaboration, software development or AI?
 
-<br/>
+<br>
 
 <a href="https://github.com/75ShubhamSonar">
-  <img src="https://img.shields.io/badge/GitHub-75ShubhamSonar-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/shubham-sonar-741011281/">
-  <img src="https://img.shields.io/badge/LinkedIn-Shubham%20Sonar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://shubhamsonar7.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="mailto:sonarshubham7522@gmail.com">
-  <img src="https://img.shields.io/badge/Email-sonarshubham7522%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Explore-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
@@ -251,8 +327,10 @@ and discussing software development, AI and new technologies.
 
 <div align="center">
 
-### 💻 "Code. Learn. Build. Improve. Repeat." 🚀
+### 💡 Build → Learn → Experiment → Improve
 
-⭐ If you find my projects useful, consider giving them a star!
+⭐ **Thanks for visiting my profile!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 
 </div>
